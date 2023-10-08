@@ -1,4 +1,4 @@
-//Write a menu driven program to  1)Insert  2)Delete  3)Peek  4)Display     in a queue
+//Write a menu driven program to  1)Insert  2)Delete  3)Peek  4)Display     in a queue using LINKED LISTS
 
 #include <stdio.h>
 
