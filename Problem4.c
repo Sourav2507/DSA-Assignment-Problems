@@ -15,7 +15,7 @@ void main()
 	    }
    printf("Input the value to be inserted : ");
    scanf("%d",&inval);
-   printf("The exist array is :\n");
+   printf("The existing array is :\n");
    for(i=0;i<n;i++)
       printf("% 5d",arr1[i]);
 
